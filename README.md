@@ -8,7 +8,8 @@ To contact me for anything except spam my discord is `Coosanta#7004`
 
 ### **Projects I'm currently working on**
 **[The Amalgam](https://github.com/Coosanta17/Amalgam)** -  *Under heavy development (used to be [The Trimensions](https://github.com/Coosanta17/Trimensions) but got merged)* 
-**Moonlord** - *A rpg I'm (sort of) working on (I don't have the time or money to really get into it)*
+
+**Moonlord** - *An rpg I'm (sort of) working on (I don't have the time or money to really get into it)*
 
 *I have other small projects that I usually lose interest in quickly but you can check it out on my profile*
 
