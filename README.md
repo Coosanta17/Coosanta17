@@ -7,7 +7,7 @@ To contact me for anything except spam my discord is `Coosanta#7004`
 
 
 ### **Projects I'm currently working on**
-**[The Amalgam](https://github.com/Coosanta17/Amalgam)** -  *Under heavy development (used to be [The Trimensions](https://github.com/Coosanta17/Trimensions) but got merged)* 
+**[The Amalgam](https://github.com/Coosanta17/Amalgam)** -  *Under development (used to be [The Trimensions](https://github.com/Coosanta17/Trimensions) but got merged)* 
 
 **Moonlord** - *An rpg I'm (sort of) working on (I don't have the time or money to really get into it)*
 
@@ -15,7 +15,8 @@ To contact me for anything except spam my discord is `Coosanta#7004`
 
 I'm not very active on github so best to use discord.
 
-I *might* make a development discord server, but only I would be in it.
+**discord server (mainly for the Amalgam):**
+https://discord.gg/hDQGrCWaPJ
 
 <!---
 Coosanta17/Coosanta17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
