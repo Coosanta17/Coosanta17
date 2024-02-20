@@ -5,14 +5,6 @@ I make Minecraft Java edition Datapacks (amateur) and do (failed) attempts on mo
 
 To contact me for anything except spam my discord is `Coosanta#7004`
 
-# Join Treehouse SMP!!!
-
-### good very good server **pls join [here discord](https://discord.gg/8VsB7R2Vty)!!**
-
-### see what it's about **[Here PMC!](https://www.planetminecraft.com/server/treehouse-smp/)** or **[Here PAGE GITHUB!](https://coosanta17.github.io/Treehouse_SMP.htm)**!!!!
-
-# 
-
 ### **Projects I'm currently working on**
 **[The Amalgam](https://github.com/Coosanta17/Amalgam)** -  *Under development (used to be [The Trimensions](https://github.com/Coosanta17/Trimensions) but got merged)* 
 
