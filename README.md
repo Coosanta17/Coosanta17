@@ -3,18 +3,20 @@
 
 I make Minecraft Java edition Datapacks (amateur) and do (failed) attempts on mods
 
-To contact me for anything except spam my discord is `Coosanta#7004`
+Languages I am fluent in are: English, Java, and Piano.
 
-### **Projects I'm currently working on**
-**[The Amalgam](https://github.com/Coosanta17/Amalgam)** -  *Under development (used to be [The Trimensions](https://github.com/Coosanta17/Trimensions) but got merged)* 
+Languages I am learning are: JavaScript, Python, and Chinese.
 
-**Moonlord** - *An rpg I'm (sort of) working on (I don't have the time or money to really get into it)*
+To contact me for anything except spam my discord is `coosanta`
+
+### Projects I'm currently working on
+**[The Amalgam](https://github.com/Coosanta17/Amalgam)** - *(on hiatus)*
 
 *I have other small projects that I usually lose interest in quickly but you can check it out on my profile*
 
-I'm not very active on github so best to use discord.
+My projects progress very slowly because I am busy and programming is a low priority
 
-**discord server (mainly for the Amalgam):**
+**discord server:**
 https://discord.gg/hDQGrCWaPJ
 
 <!---
