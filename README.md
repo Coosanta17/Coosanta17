@@ -3,7 +3,7 @@
 
 I make Minecraft Java edition Datapacks (amateur) and do (failed) attempts on mods
 
-Languages I am fluent in are: English, Java, Grand Stave and Bass clef.
+Languages I am fluent in are: English, Java, Grand Stave and Alto clef.
 
 Languages I am learning are: JavaScript, Python, and Chinese.
 
