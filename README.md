@@ -3,9 +3,7 @@
 
 I make Minecraft Java edition Datapacks (amateur) and do (failed) attempts on mods
 
-Languages I am fluent in are: English, Java, Grand Stave and Alto clef.
-
-Languages I am learning are: JavaScript, Python, and Chinese.
+I also do some other coding things but nothing special or real, like most programmers out there.
 
 To contact me for anything except spam my discord is `coosanta`
 
@@ -16,8 +14,12 @@ To contact me for anything except spam my discord is `coosanta`
 
 My projects progress very slowly because I am busy and programming is a low priority
 
+### [coosanta.net](https://www.coosanta.net/)
+
 **discord server:**
 https://discord.gg/hDQGrCWaPJ
+
+
 
 <!---
 Coosanta17/Coosanta17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
