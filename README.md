@@ -28,7 +28,7 @@ https://discord.gg/hDQGrCWaPJ
 Coosanta17/Coosanta17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Coosanta17&layout=compact) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Coosanta17&layout=compact&exclude_repo=MinecraftPlus-Custom-Panoramas,Coosanta17.github.io) 
 <!---
 ![Coosanta's GitHub stats](https://github-readme-stats.vercel.app/api?username=Coosanta17&show_icons=true&theme=transparent)
 --->
