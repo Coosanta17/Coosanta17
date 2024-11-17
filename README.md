@@ -1,24 +1,27 @@
 
 ## Hi! I’m @Coosanta17!
 
-I make Minecraft Java edition Datapacks (amateur) and do (failed) attempts on mods
+I make things on computers.
 
-I also do some other coding things but nothing special or real, like most programmers out there.
-
-To contact me for anything except spam my discord is `coosanta`
-
-### Projects I'm currently working on
-**[The Amalgam](https://github.com/Coosanta17/Amalgam)** - *(on hiatus)*
-
-*I have other small projects that I usually lose interest in quickly but you can check it out on my profile*
-
-My projects progress very slowly because I am busy and programming is a low priority
+You can check out my website below! Although it redirects you here...
 
 ### [coosanta.net](https://www.coosanta.net/)
 
+***
+
+### Projects I'm currently working on
+**[The Amalgam (Minecraft Datapack)](https://github.com/Coosanta17/Amalgam)** - *(on hiatus)*
+
+**[LLM API](https://github.com/Coosanta17/LLM-API)**
+
+**[Calculator](https://github.com/Coosanta17/Java-Calculator)**
+
+***
+
+<!---
 **discord server:**
 https://discord.gg/hDQGrCWaPJ
-
+--->
 
 
 <!---
