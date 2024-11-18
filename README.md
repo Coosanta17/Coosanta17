@@ -3,7 +3,7 @@
 
 I make things on computers.
 
-You can check out my website below! Although it redirects you here...
+You can check out my website below! Although it redirects you back here...
 
 ### [coosanta.net](https://www.coosanta.net/)
 
@@ -28,7 +28,10 @@ https://discord.gg/hDQGrCWaPJ
 Coosanta17/Coosanta17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Coosanta17&layout=compact&exclude_repo=MinecraftPlus-Custom-Panoramas,Coosanta17.github.io) 
+
+![Wakatime Statistics](https://github-readme-stats.vercel.app/api/wakatime?username=U078TMYQM9R&api_domain=waka.hackclub.com&custom_title=This%20Week%27s%20WakaTime%20Stats&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Coosanta17&layout=compact&exclude_repo=MinecraftPlus-Custom-Panoramas,Coosanta17.github.io)
+
 <!---
 ![Coosanta's GitHub stats](https://github-readme-stats.vercel.app/api?username=Coosanta17&show_icons=true&theme=transparent)
 --->
