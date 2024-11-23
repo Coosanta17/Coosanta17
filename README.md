@@ -29,7 +29,7 @@ Coosanta17/Coosanta17 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-![Wakatime Statistics](https://github-readme-stats.vercel.app/api/wakatime?username=U078TMYQM9R&api_domain=waka.hackclub.com&custom_title=This%20Week%27s%20WakaTime%20Stats&layout=compact&langs_count=6)
+![Wakatime Statistics](https://github-readme-stats.vercel.app/api/wakatime?username=U078TMYQM9R&api_domain=waka.hackclub.com&layout=compact&langs_count=6)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Coosanta17&layout=compact&exclude_repo=MinecraftPlus-Custom-Panoramas,Coosanta17.github.io)
 
 <!---
