@@ -13,6 +13,8 @@ You can check out my website below! Although it redirects you back here...
 **[The Amalgam (Minecraft Datapack)](https://github.com/Coosanta17/Amalgam)** - *(on hiatus)*
 
 **[LLM API](https://github.com/Coosanta17/LLM-API)**
+and
+**[LLM Frontend](https://github.com/Coosanta17/LLM-Frontend)**
 
 **[Calculator](https://github.com/Coosanta17/Java-Calculator)**
 
