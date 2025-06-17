@@ -16,8 +16,6 @@ You can check out my website below! Although it redirects you back here...
 and
 **[LLM Frontend](https://github.com/Coosanta17/LLM-Frontend)**
 
-**[Calculator](https://github.com/Coosanta17/Java-Calculator)**
-
 ***
 
 <!---
@@ -31,7 +29,7 @@ Coosanta17/Coosanta17 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-![Wakatime Statistics](https://github-readme-stats.vercel.app/api/wakatime?username=U078TMYQM9R&api_domain=waka.hackclub.com&layout=compact&langs_count=6)
+![Wakatime Statistics](https://github-readme-stats.hackclub.dev/api/wakatime?username=6382&api_domain=hackatime.hackclub.com&layout=compact&langs_count=6&custom_title=Total+Wakatime+Stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Coosanta17&layout=compact&exclude_repo=MinecraftPlus-Custom-Panoramas,Coosanta17.github.io)
 
 <!---
